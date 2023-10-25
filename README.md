@@ -1,2 +1,2 @@
 # InstanHyre-Ltd
-A Recruitment Website build to address shortage of skills 
+Aproduct Management product on Recruitment Website build to address shortage of skills 
